@@ -1,4 +1,7 @@
 #
+
+🌑🌒🌓🌔🌕🌖🌗🌘🌑
+
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🚀 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
